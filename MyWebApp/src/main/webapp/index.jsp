@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h2>Sample Azure pipeline!!!</h2>
-	  <h2>Java Project</h2>
+	  <h2>Java Project Version1</h2>
 
 </body>
 </html>
